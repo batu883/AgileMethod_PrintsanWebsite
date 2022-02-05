@@ -1,0 +1,15 @@
+Hi, I am Batuhan. I and my friends are done a website project. 
+We found a textile company as a real customer.
+Our main purpose was to use agile(scrum) methodology and work with real customers.
+So, we have gained real-life experiences.
+This was our first agile project. Maybe it is not full-correct but we learn a lot of things.
+I was not in the developer team, but I tried to help our team in management processes.
+
+For agile methodology;  we used the Jira,  Slack tools and started with plans.
+We made a few meetings on MicrosoftTeams and Google Meetings every week and planned sprints.
+We were in constant communication with the customer during the development process for the customer's wishes.
+The customer gave feedbacks of course.
+On the documentation side; Feasibility Report, TestCases, Analyze Reports, and Weekly Excels are done.
+
+If you want to see other parts and codes:
+https://ikuedu-my.sharepoint.com/:u:/g/personal/1700003224_stu_iku_edu_tr/EcV3OzxIRQ9ImxecDwSSSwoBs_W9MGYraandBOGIBgAHgg?e=oMrW4E
